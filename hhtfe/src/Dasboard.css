@@ -1,0 +1,32 @@
+/* Dashboard.css */
+
+/* Container for content */
+.dashboard-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* Allow content to wrap to the next line if needed */
+  }
+  
+  /* Equipment List */
+  .equipment-list {
+    margin-right: 10px; /* Adjust margin as needed */
+  }
+  
+  /* Equipment Dropdown */
+  .equipment-dropdown {
+    margin-left: 10px; /* Adjust margin as needed */
+  }
+  
+  /* Textboxes for 'start' and 'end' */
+  .textbox-container {
+    margin-left: 10px; /* Adjust margin as needed */
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Show Chart Button */
+  .show-chart-button {
+    margin-left: 10px; /* Adjust margin as needed */
+  }
+  
